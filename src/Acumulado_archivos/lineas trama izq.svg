@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 181 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>lineas trama izq</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="GRID-1366-CAJA-NEWSLETTER-LN-|-Logueado" transform="translate(-7.000000, -374.000000)" stroke="#FFFFFF">
+            <g id="DISEÑO" transform="translate(0.000000, -646.000000)">
+                <g id="CAJA-NEWSLETTER-100%" transform="translate(0.000000, 1002.000000)">
+                    <g id="lineas-trama-izq" transform="translate(97.093750, 100.000000) rotate(-180.000000) translate(-97.093750, -100.000000) translate(5.593750, 17.000000)">
+                        <g id="lineas-largas" transform="translate(0.500000, 1.000000)" opacity="0.3">
+                            <path d="M21.59375,0.632594 L21.59375,23.5" id="Line-3-Copy-5"/>
+                            <path d="M28.59375,0.710885953 L28.59375,18.5" id="Line-3-Copy-3"/>
+                            <path d="M0.59375,0.86843703 L0.59375,49.5" id="Line-3-Copy-9"/>
+                            <path d="M7.59375,0.286836108 L7.59375,78" id="Line-3"/>
+                            <path d="M14.5,0.124680297 L14.5,25.26375" id="Line-3-Copy-14"/>
+                            <path d="M55.59375,0.545330587 L55.59375,86.5" id="Line-3"/>
+                            <path d="M62.59375,0.414987694 L62.59375,64.1088194" id="Line-3"/>
+                            <path d="M41.59375,0.414987694 L41.59375,49.5" id="Line-3-Copy-5"/>
+                            <path d="M48.59375,0.414987694 L48.59375,52.5" id="Line-3-Copy-3"/>
+                            <path d="M69.59375,0.710885953 L69.59375,89.5" id="Line-3"/>
+                            <path d="M76.59375,0.286836108 L76.59375,39.1434181" id="Line-3-Copy"/>
+                            <path d="M35.59375,0.86843703 L35.59375,92.5" id="Line-3-Copy-7"/>
+                            <path d="M125.5,0.124680297 L125.5,136.442306" id="Line-3"/>
+                            <path d="M132.59375,0.175193059 L132.59375,113.5" id="Line-3"/>
+                            <path d="M116.59375,0.665779121 L116.59375,74.5" id="Line-3-Copy-3"/>
+                            <path d="M108.59375,0.86843703 L108.59375,26.4574938" id="Line-3-Copy-13"/>
+                            <path d="M93.59375,0.175193059 L93.59375,105.975518" id="Line-3-Copy-9"/>
+                            <path d="M140.59375,0.86843703 L140.59375,138.5" id="Line-3"/>
+                            <path d="M148.59375,0.86843703 L148.59375,64.1088194" id="Line-3-Copy"/>
+                            <path d="M84.59375,0.545330587 L84.59375,80.5" id="Line-3-Copy-11"/>
+                            <path d="M100.59375,0.545330587 L100.59375,149.5" id="Line-3-Copy-7"/>
+                            <path d="M180.59375,0.545330587 L180.59375,69.5" id="Line-3-Copy-5"/>
+                            <path d="M164.59375,0.710885953 L164.59375,105.975518" id="Line-3-Copy-9"/>
+                            <path d="M156.59375,0.414987694 L156.59375,82.5" id="Line-3-Copy-11"/>
+                            <path d="M173.59375,0.175193059 L173.59375,142.5" id="Line-3-Copy-7"/>
+                        </g>
+                        <g id="lineas-cortas" transform="translate(0.500000, 0.139410)">
+                            <path d="M0.59375,36.7457152 L0.59375,60.0586975" id="Line-3"/>
+                            <path d="M7.59375,58.3605898 L7.59375,79.7592415" id="Line-3-Copy-8"/>
+                            <path d="M14.59375,11.3605898 L14.59375,70.3605898" id="Line-3-Copy-2"/>
+                            <path d="M21.59375,7.36058981 L21.59375,31.3605898" id="Line-3-Copy-12"/>
+                            <path d="M28.59375,4.36058981 L28.59375,19.9349866" id="Line-3-Copy-4"/>
+                            <path d="M35.59375,71.3605898 L35.59375,94.3605898" id="Line-3-Copy-8"/>
+                            <path d="M41.6875,33.227882 L41.6875,50.227882" id="Line-3-Copy-6"/>
+                            <path d="M48.59375,38.3605898 L48.59375,53.3605898" id="Line-3-Copy-4"/>
+                            <path d="M55.59375,44.3605898 L55.59375,87.3605898" id="Line-3"/>
+                            <path d="M62.59375,19.9349866 L62.59375,65.3605898" id="Line-3"/>
+                            <path d="M69.59375,74.3605898 L69.59375,90.3605898" id="Line-3"/>
+                            <path d="M76.59375,26.3605898 L76.59375,50.3605898" id="Line-3-Copy-2"/>
+                            <path d="M125.59375,100.36059 L125.59375,137.36059" id="Line-3"/>
+                            <polyline id="Line-3" points="132.59375 69.3605898 132.59375 75.8605898 132.59375 113.86059"/>
+                            <path d="M108.59375,1.36058981 L108.59375,36.7457152" id="Line-3-Copy-6"/>
+                            <path d="M116.59375,60.0586975 L116.59375,76.3605898" id="Line-3-Copy-4"/>
+                            <path d="M93.59375,88.8851254 L93.59375,120.36059" id="Line-3-Copy-10"/>
+                            <path d="M140.59375,126.86059 L140.59375,164.36059" id="Line-3"/>
+                            <path d="M148.59375,22.3605898 L148.59375,102.157893" id="Line-3-Copy-2"/>
+                            <path d="M84.6875,56.0559966 L84.6875,102.157893" id="Line-3-Copy-12"/>
+                            <path d="M100.59375,112.36059 L100.59375,150.36059" id="Line-3-Copy-8"/>
+                            <path d="M180.59375,57.3605898 L180.59375,102.157893" id="Line-3-Copy-6"/>
+                            <path d="M164.59375,88.8851254 L164.59375,120.36059" id="Line-3-Copy-10"/>
+                            <path d="M156.59375,56.0559966 L156.59375,102.157893" id="Line-3-Copy-12"/>
+                            <path d="M173.59375,112.36059 L173.59375,143.36059" id="Line-3-Copy-8"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
